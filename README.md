@@ -25,7 +25,7 @@ Give Access Permission To Run redhacker-
 
 And
 
-> chmod 777 gshtool.sh
+> chmod 777 Redhacker.sh
 
 And Then Install it
 
